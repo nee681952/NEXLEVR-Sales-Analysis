@@ -28,4 +28,4 @@ NEXLEVR – Data Analyst Internship
 
 ## Dashboard Preview
 
-![Power BI Sales Dashboard](dashboard.png)
+![Power BI Sales Dashboard](Sales_Analysis_page-0001.jpg)
