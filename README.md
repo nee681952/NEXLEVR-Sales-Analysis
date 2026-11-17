@@ -25,3 +25,7 @@ To identify sales trends, understand customer purchasing behavior, and provide u
 
 ## Internship
 NEXLEVR – Data Analyst Internship
+
+## Dashboard Preview
+
+![Power BI Sales Dashboard](dashboard.png)
